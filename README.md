@@ -1,6 +1,6 @@
 # PrimeEstates - Luxury Real Estate E-Commerce Platform
 
-A modern, responsive, and feature-rich static website for luxury real estate e-commerce built using pure **HTML5**, **CSS3**, and **Vanilla JavaScript**.
+A modern, responsive, and feature-rich static website for lux ury real estate e-commerce built using pure **HTML5**, **CSS3**, and **Vanilla JavaScript**.
 
 ---
 
