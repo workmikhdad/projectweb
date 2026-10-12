@@ -3,6 +3,7 @@
    ========================================================================== */
 
 :root {
+  --primary: rgb(10, 75, 211)      /* Deep midnight slate */
   --primary: rgb(23, 70, 211)      /* Deep midnight slate */
   --primary-light: #1e293b;  /* Slate card dark */
   --accent: #d97706;         /* Refined warm gold / amber */
